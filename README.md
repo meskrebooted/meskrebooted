@@ -1,4 +1,4 @@
 <div align="center">
-  <img  src="sans.png" height="200px"alt="sans su un triciclo wohohohohohohh." />
-  _
+  <img  src="sans.png" height="300px"alt="sans su un triciclo wohohohohohohh." />
+  
 </div>
